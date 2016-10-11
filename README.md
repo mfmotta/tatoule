@@ -1,7 +1,7 @@
 # tatoule
 Repo for [ADA course](https://github.com/adaepfl/homework) at EPFL
 
-__Team:__
+__tatoule Team:__
 
  - [Gianrocco Lazzari](https://github.com/ggrrll)
  - [Maxime Peschard](https://github.com/maximepeschard)

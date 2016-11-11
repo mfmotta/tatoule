@@ -1,7 +1,7 @@
 # 04 - Applied ML
 
 ## Deadline
-Monday November 21, 2016 at 11:59PM
+Tuesday November 22, 2016 at 11:59PM
 
 ## Important Notes
 * Make sure you push on GitHub your Notebook with all the cells already evaluated
@@ -24,7 +24,7 @@ passed to the Classifier affect the overfitting issue. Perform cross-validation 
 inspect the `feature_importances_` attribute and discuss the obtained results. With different assumptions on the data (e.g., dropping certain features even
 before feeding them to the classifier), can you obtain a substantially different `feature_importances_` attribute?
 
-*BONUS*: plot the learning curves against at least 2 different sets of parameters passed to your Random Forest. To obtain smooth curves, partition
+  *BONUS*: plot the learning curves against at least 2 different sets of parameters passed to your Random Forest. To obtain smooth curves, partition
 your data in at least 20 folds. Can you find a set of parameters that leads to high bias, and one which does not?
 
 2. Aggregate the referee information grouping by soccer player, and use an unsupervised learning technique to cluster the soccer players in 2 disjoint

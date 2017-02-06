@@ -1,5 +1,5 @@
 # tatoule
-_Public_ repository for [ADA course](https://github.com/adaepfl/homework) at EPFL
+_Public_ repository for [ADA course](https://github.com/adaepfl/homework) at EPFL.
 
 __tatoule Team:__
 
